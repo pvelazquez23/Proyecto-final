@@ -1,12 +1,12 @@
 # Proyecto-final
-Este proyecto consiste en un conjunto de herramientas para el análisis de datos de acciones financieras utilizando Python. A continuación se describen las principales funcionalidades y cómo utilizarlas:
+Este proyecto consiste en un conjunto de herramientas para el análisis de datos de acciones financieras utilizando Python. 
+Funcionalidades:
 
-Funcionalidades
 Descarga de Datos de Acciones
 La función download_stock_data permite descargar los datos históricos de una acción especificada y almacenarlos en una base de datos SQLite local. Los datos descargados incluyen los precios de cierre ajustados para el análisis posterior.
 
 Cálculo de Estadísticas de Inversión
-La función calculate_investment_stats calcula diversas estadísticas de inversión utilizando los datos descargados de la acción. Las estadísticas incluyen la media de los rendimientos, la desviación estándar, la asimetría, la curtosis y el rendimiento total acumulado.
+Las estadísticas incluyen la media de los rendimientos, la desviación estándar, la asimetría, la curtosis y el rendimiento total acumulado.
 
 Análisis Técnico: RSI y MACD
 Se proporcionan funciones para calcular el Indicador de Fuerza Relativa (RSI) y las Convergencia/Divergencia de Medias Móviles (MACD). Estas herramientas son útiles para evaluar la fuerza de una tendencia y las posibles señales de compra o venta.
