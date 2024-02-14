@@ -1,0 +1,5 @@
+Instrucciones de Uso
+Al ejecutar el script, se solicitará al usuario ingresar el ticker de la acción de interés, así como las fechas de inicio y finalización del período de análisis.
+El script descargará automáticamente los datos de la acción y calculará las estadísticas de inversión.
+Se generará una serie de gráficos que visualizan los precios de cierre, EMAs, RSI y MACD.
+Finalmente, se mostrarán las métricas de riesgo (VaR y CVaR) junto con las estadísticas de inversión en una figura y se guardarán en un archivo de imagen.
